@@ -1,6 +1,10 @@
 # kome_keto
 
-A new Flutter project.
+Aplicativo com objetivo de ser uma agenda interativa com todos os eventos marcados para a republica Kome Keto, disponivel a vários integrantes da casa e todos com a opção de adicionar, atualizar e deletar eventos.
+
+Obetivo futuro:
+
+Implementar outras funcionalidades, como uma area falando sobre a casa, fotos, história, um grupo como WhatsApp para iteração entre os integrantes e ex alunos, e por fim um forúm para atualizações informativas da casa.
 
 ## Getting Started
 
