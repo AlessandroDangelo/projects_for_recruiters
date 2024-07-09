@@ -9,6 +9,15 @@ class Add_New_Event extends StatefulWidget {
 class _Add_New_EventState extends State<Add_New_Event> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Container(
+      child: Center(
+        child: Text(
+          "Adiciona Evento",
+          style: TextStyle(
+            fontSize: 25,
+          ),
+        )
+      ),
+    );
   }
 }

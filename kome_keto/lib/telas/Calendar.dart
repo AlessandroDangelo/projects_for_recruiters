@@ -21,7 +21,7 @@ class _CalendarState extends State<Calendar> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Kome Keto"),),
+      appBar: AppBar(),
       body: SingleChildScrollView(
         child: Column(
           children: [
